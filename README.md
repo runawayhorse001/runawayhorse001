@@ -22,8 +22,8 @@
 - 🤔 I’m looking for help with Engligh 
 - 💬 Ask me about anything, I am more than happy to help!
 - 📫 How to reach me: von198@gmail.com
-- 😄 Pronouns: Wen - Pronounce as "wen" in "when"
-                Qiang - Pronounce as "chi-" in "chin" + "ang-" in "angry"
+- 😄 Pronouns: Wen - Pronounce as **"wen"** in "when"
+                Qiang - Pronounce as **"chi-"** in "chin" + **"ang-"** in "angry"
 - ⚡ Fun fact: ...
 
 
