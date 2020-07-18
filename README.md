@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am more than happy to help!
 - 📫 How to reach me: von198@gmail.com
 - 😄 Pronouns: Wen - Pronounce as "wen" in "when"
-                qiang - Pronounce as "chi-" in "chin" + "ang-" in "angry"
+                Qiang - Pronounce as "chi-" in "chin" + "ang-" in "angry"
 - ⚡ Fun fact: ...
 
