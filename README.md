@@ -13,7 +13,7 @@
 -->
 
 [![Wenqiang's github stats](https://imwnk-github-stats.vercel.app/api?username=runawayhorse001&show_icons=true)](https://github.com/runawayhorse001)
-[![Arctic Code Vault Contributor](arctic.jpg)](https://archiveprogram.github.com)
+[![Arctic Code Vault Contributor](arctic.png)](https://archiveprogram.github.com)
 
 
 
