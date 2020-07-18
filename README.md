@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Wenqiang Feng:
 
 <!--
 **runawayhorse001/runawayhorse001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
-Here are some ideas to get you started:
+[![Linkedin: Wenqiang Feng](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenqiang-feng-ph-d-51a93742/)](https://www.linkedin.com/in/wenqiang-feng-ph-d-51a93742/)
+[![GitHub runawayhorse001](https://img.shields.io/github/followers/runawayhorse001?label=follow&style=social)](https://github.com/runawayhorse001)
 
 - 🔭 I’m currently working on ML and Deeplearning
 - 🌱 I’m currently learning NLP
